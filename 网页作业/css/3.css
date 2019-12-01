@@ -1,0 +1,17 @@
+@charset "utf-8";
+.textbg{
+    width: 800px;
+    height: 2000px;
+    background: #d4eaf5;
+    margin: -3px auto;
+}
+.alltitle{
+    font-size: 100px;
+}
+.alltxt{
+    font-size: 50px;
+    margin:  auto;
+}
+div.top .textbg .alltitle .title{
+    font-size: 50px;
+}
